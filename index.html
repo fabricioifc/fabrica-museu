@@ -916,13 +916,86 @@
             border-top: 1px dashed var(--wire);
         }
 
+        @media (max-width: 1100px) {
+            nav {
+                padding: 0 28px;
+            }
+
+            section {
+                padding: 64px 28px;
+            }
+
+            .hero-content,
+            .about-hero {
+                padding-left: 40px;
+                padding-right: 40px;
+            }
+
+            .institutional-grid,
+            .historia-grid {
+                gap: 40px;
+            }
+
+            .mvv-grid,
+            .estrutura-grid,
+            .footer-inner {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .team-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
         @media (max-width: 900px) {
             nav {
                 padding: 0 24px;
+                gap: 20px;
             }
 
             section {
                 padding: 56px 24px;
+            }
+
+            .hero {
+                min-height: 520px;
+            }
+
+            .hero-content {
+                max-width: 560px;
+                padding: 64px 24px;
+            }
+
+            .hero h1,
+            .about-hero h1 {
+                font-size: 42px;
+            }
+
+            .hero-scroll {
+                right: 24px;
+                bottom: 20px;
+            }
+
+            .institutional-grid,
+            .historia-grid,
+            .highlights-grid,
+            .mvv-grid,
+            .estrutura-grid,
+            .footer-inner {
+                grid-template-columns: 1fr;
+            }
+
+            .team-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .stat-row {
+                flex-wrap: wrap;
+                gap: 20px;
+            }
+
+            .timeline-items {
+                grid-template-columns: repeat(2, 1fr);
             }
 
             .contact-grid {
@@ -945,11 +1018,19 @@
                 padding-bottom: 16px;
                 flex-wrap: wrap;
                 gap: 16px;
+                justify-content: center;
+            }
+
+            .nav-logo,
+            .nav-cta,
+            nav ul {
+                width: 100%;
             }
 
             nav ul {
                 gap: 16px;
                 flex-wrap: wrap;
+                justify-content: center;
             }
 
             .institutional-grid,
@@ -973,9 +1054,122 @@
                 font-size: 38px;
             }
 
+            .hero-scroll {
+                display: none;
+            }
+
+            .timeline-line {
+                display: none;
+            }
+
+            .timeline-items {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .t-item {
+                background: var(--bg);
+                border: 1px solid var(--wire);
+                border-radius: 8px;
+                padding: 18px;
+            }
+
+            .t-dot {
+                margin-bottom: 10px;
+            }
+
+            .stat-row,
+            .hero-actions,
+            .cta-row,
+            .contact-actions {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .btn {
+                justify-content: center;
+            }
+
             .contact-panel,
             .contact-map-card {
                 padding: 20px;
+            }
+
+            footer {
+                padding: 40px 24px;
+            }
+
+            .page-bar {
+                font-size: 10px;
+                letter-spacing: .12em;
+                padding-left: 16px;
+                padding-right: 16px;
+            }
+        }
+
+        @media (max-width: 560px) {
+            body {
+                font-size: 14px;
+            }
+
+            nav {
+                padding-left: 16px;
+                padding-right: 16px;
+            }
+
+            section {
+                padding: 48px 16px;
+            }
+
+            .hero {
+                min-height: 460px;
+            }
+
+            .hero-content,
+            .about-hero {
+                padding: 48px 16px;
+            }
+
+            .hero h1,
+            .about-hero h1,
+            .cta-visit h2,
+            .institutional h2 {
+                font-size: 32px;
+            }
+
+            .institutional-img,
+            .contact-map {
+                min-height: 260px;
+                height: 260px;
+            }
+
+            .team-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .nav-logo {
+                justify-content: center;
+            }
+
+            .nav-logo-text {
+                text-align: center;
+            }
+
+            .stat {
+                width: 100%;
+            }
+
+            .ann-tip {
+                display: none;
+            }
+
+            .contact-panel,
+            .contact-map-card,
+            .mvv-card,
+            .highlight-card-body,
+            .space-card-body {
+                padding-left: 16px;
+                padding-right: 16px;
             }
         }
     </style>
