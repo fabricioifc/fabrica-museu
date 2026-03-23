@@ -633,10 +633,25 @@
         .map-caption {
             display: flex;
             justify-content: space-between;
+            align-items: center;
             gap: 16px;
             font-size: 12px;
             color: rgba(255, 255, 255, .72);
             margin-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .map-caption-text {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .map-link {
+            border-color: rgba(255, 255, 255, .35);
+            color: #fff;
+            padding: 10px 16px;
+            white-space: nowrap;
         }
 
         /* ════════════════════════════════════════════════════
@@ -1366,6 +1381,16 @@
             </div>
             <div class="contact-map-card">
                 <div id="contact-map" class="contact-map" aria-label="Mapa com a localização do Museu do Vinho"></div>
+                <div class="map-caption">
+                    <div class="map-caption-text">
+                        <span>Mapa interativo com Leaflet e OpenStreetMap.</span>
+                        <span>Videira, SC</span>
+                    </div>
+                    <a class="btn btn--outline map-link"
+                        href="https://www.google.com/maps/search/?api=1&query=-27.0083,-51.1518"
+                        target="_blank"
+                        rel="noopener noreferrer">Abrir no Google Maps</a>
+                </div>
             </div>
         </div>
     </section>
