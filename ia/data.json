@@ -1,40 +1,5 @@
 [
   {
-    "path": "photos/images.jpg",
-    "filename": "images.jpg",
-    "file_hash": "84d3c3fe0b1b4b8d17c91483f078261a",
-    "file_size": 12406,
-    "provider": "ollama",
-    "model": "llava:13b",
-    "description": "Esta é uma fotografia de um ramo de uva com folhas verdes e vermelhas. A imagem parece ser antiga, possivelmente do século XX ou anterior. O contexto histórico provável é desconhecido. As cores dominantes são o preto das folhas e o branco da superfície onde o ramo está. Não há pessoas visíveis na imagem.",
-    "categories": [
-      "nature",
-      "document"
-    ],
-    "tags": [
-      "uva",
-      "folhas",
-      "ramo",
-      "antigo",
-      "desconhecido"
-    ],
-    "dominant_colors": [
-      "preto",
-      "branco"
-    ],
-    "people_count": 0,
-    "scene_type": "document",
-    "quality_score": 7,
-    "orientation": "vertical",
-    "historical_period": "desconhecido",
-    "location_type": "desconhecido",
-    "document_type": "fotografia",
-    "text_present": true,
-    "legibility_score": 0,
-    "estimated_year": 0,
-    "processed_at": "2026-03-17T20:58:40.541998"
-  },
-  {
     "path": "photos/VII Concurso VINHOS/img888.jpg",
     "filename": "img888.jpg",
     "file_hash": "b0bc6c42753607d7a702538490be5dbd",
