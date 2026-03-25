@@ -1,184 +1,215 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Galeria de Fotos</title>
 
     <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f5f5f5;
-        }
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #f5f5f5;
+      }
 
-        header {
-            background: #333;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
+      header {
+        background: #333;
+        color: white;
+        padding: 1rem;
+        text-align: center;
+      }
 
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 12px;
-            padding: 12px;
-        }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 12px;
+        padding: 12px;
+      }
 
-        .card {
-            background: white;
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-direction: column;
-        }
+      .card {
+        background: white;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        display: flex;
+        flex-direction: column;
+      }
 
+      .card img {
+        width: 100%;
+        height: 180px;
+        object-fit: cover;
+        cursor: pointer;
+      }
+
+      .card-content {
+        padding: 10px;
+        font-size: 14px;
+      }
+
+      .card-content p {
+        margin: 5px 0;
+      }
+
+      .tag {
+        display: inline-block;
+        background: #eee;
+        border-radius: 6px;
+        padding: 2px 6px;
+        margin: 2px;
+        font-size: 12px;
+      }
+
+      /* Modal */
+      .modal {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(4px);
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+      }
+
+      .modal-box {
+        background: #222;
+        border-radius: 12px;
+        max-width: 600px;
+        width: 100%;
+        max-height: 90%;
+        overflow-y: auto;
+        padding: 15px;
+        position: relative;
+      }
+
+      .modal img {
+        width: 100%;
+        border-radius: 10px;
+      }
+
+      .modal-content {
+        color: white;
+        margin-top: 10px;
+        font-size: 14px;
+      }
+
+      /* Botão fechar melhorado */
+      .close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: #ff4d4d;
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        border: none;
+      }
+
+      .close:hover {
+        background: #ff1a1a;
+      }
+
+      @media (max-width: 600px) {
         .card img {
-            width: 100%;
-            height: 180px;
-            object-fit: cover;
-            cursor: pointer;
+          height: 150px;
         }
-
-        .card-content {
-            padding: 10px;
-            font-size: 14px;
-        }
-
-        .card-content p {
-            margin: 5px 0;
-        }
-
-        .tag {
-            display: inline-block;
-            background: #eee;
-            border-radius: 6px;
-            padding: 2px 6px;
-            margin: 2px;
-            font-size: 12px;
-        }
-
-        /* Modal */
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.8);
-            justify-content: center;
-            align-items: center;
-            padding: 10px;
-        }
-
-        .modal img {
-            max-width: 100%;
-            max-height: 80%;
-            border-radius: 10px;
-        }
-
-        .modal-content {
-            color: white;
-            margin-top: 10px;
-            max-width: 600px;
-        }
-
-        .close {
-            position: absolute;
-            top: 15px;
-            right: 20px;
-            font-size: 24px;
-            color: white;
-            cursor: pointer;
-        }
-
-        @media (max-width: 600px) {
-            .card img {
-                height: 150px;
-            }
-        }
+      }
     </style>
-</head>
+  </head>
 
-<body>
-
+  <body>
     <header>
-        <h1>📸 Galeria de Fotos</h1>
+      <h1>Galeria de Fotos</h1>
+      <p>Esse é apenas um teste feito com um conjunto pequeno de imagens.</p>
     </header>
 
     <div class="grid" id="grid"></div>
 
     <!-- Modal -->
     <div class="modal" id="modal">
-        <span class="close" onclick="closeModal()">✖</span>
-        <div>
-            <img id="modalImg">
-            <div class="modal-content" id="modalContent"></div>
-        </div>
+      <div class="modal-box">
+        <button class="close" onclick="closeModal()">✖</button>
+        <img id="modalImg" />
+        <div class="modal-content" id="modalContent"></div>
+      </div>
     </div>
 
     <script>
-  async function loadData() {
-    const response = await fetch('data.json');
-    const data = await response.json();
+      async function loadData() {
+        const response = await fetch("data.json");
+        const data = await response.json();
 
-    const grid = document.getElementById('grid');
+        const grid = document.getElementById("grid");
 
-    data.forEach(item => {
-      const card = document.createElement('div');
-      card.className = 'card';
+        data.forEach((item) => {
+          const card = document.createElement("div");
+          card.className = "card";
 
-      card.innerHTML = `
+          card.innerHTML = `
         <img src="${item.path}" onclick='openModal(${JSON.stringify(item)})'>
         <div class="card-content">
           <p><strong>Descrição:</strong> ${item.description}</p>
-          <p><strong>Ano:</strong> ${item.estimated_year || '-'}</p>
+          <p><strong>Ano:</strong> ${item.estimated_year || "-"}</p>
           <p><strong>Pessoas:</strong> ${item.people_count}</p>
           <p><strong>Tipo:</strong> ${item.scene_type}</p>
           <p>
-            ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            ${item.tags.map((tag) => `<span class="tag">${tag}</span>`).join("")}
           </p>
         </div>
       `;
 
-      grid.appendChild(card);
-    });
-  }
+          grid.appendChild(card);
+        });
+      }
 
-  function openModal(item) {
-    document.getElementById('modal').style.display = 'flex';
-    document.getElementById('modalImg').src = item.path;
+      function openModal(item) {
+        document.getElementById("modal").style.display = "flex";
+        document.getElementById("modalImg").src = item.path;
 
-    document.getElementById('modalContent').innerHTML = `
+        document.getElementById("modalContent").innerHTML = `
       <p><strong>Descrição:</strong> ${item.description}</p>
-      <p><strong>Categorias:</strong> ${item.categories.join(', ')}</p>
-      <p><strong>Tags:</strong> ${item.tags.join(', ')}</p>
-      <p><strong>Cores:</strong> ${item.dominant_colors.join(', ')}</p>
+      <p><strong>Categorias:</strong> ${item.categories.join(", ")}</p>
+      <p><strong>Tags:</strong> ${item.tags.join(", ")}</p>
+      <p><strong>Cores:</strong> ${item.dominant_colors.join(", ")}</p>
       <p><strong>Qualidade:</strong> ${item.quality_score}</p>
       <p><strong>Orientação:</strong> ${item.orientation}</p>
       <p><strong>Período:</strong> ${item.historical_period}</p>
       <p><strong>Local:</strong> ${item.location_type}</p>
     `;
-  }
+      }
 
-  function closeModal() {
-    document.getElementById('modal').style.display = 'none';
-  }
+      function closeModal() {
+        document.getElementById("modal").style.display = "none";
+      }
 
-  window.onclick = function(event) {
-    const modal = document.getElementById('modal');
-    if (event.target === modal) {
-      closeModal();
-    }
-  }
+      window.onclick = function (event) {
+        const modal = document.getElementById("modal");
+        const box = document.querySelector(".modal-box");
 
-  loadData();
+        if (event.target === modal) {
+          closeModal();
+        }
+      };
+
+      // Fechar com ESC
+      document.addEventListener("keydown", function (event) {
+        if (event.key === "Escape") {
+          closeModal();
+        }
+      });
+
+      loadData();
     </script>
-
-</body>
-
+  </body>
 </html>
