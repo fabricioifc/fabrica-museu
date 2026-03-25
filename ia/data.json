@@ -1,0 +1,2562 @@
+[
+  {
+    "path": "photos/images.jpg",
+    "filename": "images.jpg",
+    "file_hash": "84d3c3fe0b1b4b8d17c91483f078261a",
+    "file_size": 12406,
+    "provider": "ollama",
+    "model": "llava:13b",
+    "description": "Esta é uma fotografia de um ramo de uva com folhas verdes e vermelhas. A imagem parece ser antiga, possivelmente do século XX ou anterior. O contexto histórico provável é desconhecido. As cores dominantes são o preto das folhas e o branco da superfície onde o ramo está. Não há pessoas visíveis na imagem.",
+    "categories": [
+      "nature",
+      "document"
+    ],
+    "tags": [
+      "uva",
+      "folhas",
+      "ramo",
+      "antigo",
+      "desconhecido"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco"
+    ],
+    "people_count": 0,
+    "scene_type": "document",
+    "quality_score": 7,
+    "orientation": "vertical",
+    "historical_period": "desconhecido",
+    "location_type": "desconhecido",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-17T20:58:40.541998"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img888.jpg",
+    "filename": "img888.jpg",
+    "file_hash": "b0bc6c42753607d7a702538490be5dbd",
+    "file_size": 2085508,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash",
+    "description": "Um homem de óculos, com barba e bigode, é retratado de perfil enquanto bebe de uma taça de vidro contendo um líquido claro, possivelmente vinho. Ele veste uma camisa listrada, uma gravata estampada e um blazer de tecido texturizado. O fundo mostra uma parede de tijolos, indicando um ambiente interno, provavelmente durante um evento social ou reunião, com a estética da fotografia e vestuário sugerindo o final do século XX.",
+    "categories": [
+      "portrait",
+      "event"
+    ],
+    "tags": [
+      "homem",
+      "bebendo",
+      "oculos",
+      "blazer",
+      "decada de 90"
+    ],
+    "dominant_colors": [
+      "cinza",
+      "marrom",
+      "azul",
+      "branco",
+      "amarelo"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T12:41:12.539652"
+  },
+  {
+    "path": "photos/Comida Colonial/img849.jpg",
+    "filename": "img849.jpg",
+    "file_hash": "b0e521e54765831291d28122267575bc",
+    "file_size": 2219379,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash",
+    "description": "Uma fotografia colorida mostra um homem adulto e uma criança, ambos usando chapéus de palha e camisas xadrez, em um ambiente que sugere uma celebração ou evento temático, possivelmente uma festa junina. A criança está cortando um embutido sobre uma mesa com toalha xadrez azul e branca, enquanto o homem sorri para a câmera. Há uma jarra com bebida vermelha na mesa e um barril vermelho ao fundo, indicando um cenário festivo e rural, provavelmente do final do século XX.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "festa junina",
+      "familia",
+      "chapéu de palha",
+      "comida",
+      "rural"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "azul",
+      "branco",
+      "vermelho",
+      "verde"
+    ],
+    "people_count": 2,
+    "scene_type": "indoor",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T12:41:18.239845"
+  },
+  {
+    "path": "photos/Comida Colonial/img853.jpg",
+    "filename": "img853.jpg",
+    "file_hash": "26d7464722490f988a1fe00a2bffb6f2",
+    "file_size": 2107690,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash",
+    "description": "A imagem mostra uma mesa farta, provavelmente em um ambiente doméstico, com uma variedade de pratos típicos de uma refeição festiva brasileira, possivelmente com influências italianas. Destacam-se pães, queijo, salames, frango assado, polenta e uma garrafa de vinho, sobre uma toalha de mesa xadrez verde e branca. A fotografia colorida sugere um registro da década de 1990, capturando um momento de celebração ou reunião familiar.",
+    "categories": [
+      "food",
+      "event"
+    ],
+    "tags": [
+      "comida",
+      "refeição",
+      "festa",
+      "anos 90",
+      "tradicional"
+    ],
+    "dominant_colors": [
+      "verde",
+      "amarelo",
+      "marrom",
+      "vermelho"
+    ],
+    "people_count": 0,
+    "scene_type": "food",
+    "quality_score": 7,
+    "orientation": "portrait",
+    "historical_period": "década de 1990",
+    "location_type": "residência",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 7,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T12:42:43.060872"
+  },
+  {
+    "path": "photos/Comida Colonial/img855.jpg",
+    "filename": "img855.jpg",
+    "file_hash": "86bffe23255d20f12bf7e14f482e5190",
+    "file_size": 1986428,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash",
+    "description": "Esta imagem colorida mostra uma mesa coberta por uma toalha xadrez azul e branca, com diversos alimentos dispostos para uma refeição. São visíveis fatias de pão, pedaços de queijo, fatias de salame ou embutido, potes de geleia (provavelmente de figo), uma garrafa de vinho verde e facas. A cena sugere um piquenique ou uma refeição caseira simples, com um estilo que remete a meados ou final do século XX.",
+    "categories": [
+      "food",
+      "event"
+    ],
+    "tags": [
+      "comida",
+      "mesa",
+      "piquenique",
+      "geleia",
+      "queijo"
+    ],
+    "dominant_colors": [
+      "azul",
+      "branco",
+      "marrom",
+      "amarelo",
+      "verde"
+    ],
+    "people_count": 0,
+    "scene_type": "food",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1980-1990",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T12:43:20.594134"
+  },
+  {
+    "path": "photos/Comida Colonial/img837.jpg",
+    "filename": "img837.jpg",
+    "file_hash": "1293cafc67a1bbd3fcffe23a7ff253a2",
+    "file_size": 1810643,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash",
+    "description": "Uma imagem colorida e em close-up de um cacho de uvas maduras, com bagos em tons de vermelho-arroxeado e amarelo-claro, pendurado em uma videira. Folhas verdes da planta são visíveis ao fundo, sugerindo um ambiente de vinhedo ou cultivo ao ar livre. A foto captura a beleza natural da fruta pronta para a colheita.",
+    "categories": [
+      "nature",
+      "food"
+    ],
+    "tags": [
+      "uva",
+      "fruta",
+      "vinhedo",
+      "colheita",
+      "natureza"
+    ],
+    "dominant_colors": [
+      "vermelho",
+      "amarelo",
+      "verde"
+    ],
+    "people_count": 0,
+    "scene_type": "food",
+    "quality_score": 7,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "campo",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T12:43:23.821352"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img890.jpg",
+    "filename": "img890.jpg",
+    "file_hash": "a4127972467d42751680a8932f8d56eb",
+    "file_size": 1660056,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Dois homens estão em um evento, um deles entrega um troféu em formato de cacho de uvas e barril para o outro. O troféu parece ser feito de madeira e está sobre uma base de madeira com uma placa. Ambos os homens vestem roupas formais, sugerindo uma premiação ou reconhecimento. O contexto pode ser relacionado à viticultura ou produção de vinho, possivelmente em uma cidade brasileira com tradição na área.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "troféu",
+      "uva",
+      "vinho",
+      "premiação",
+      "evento"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "cinza",
+      "branco"
+    ],
+    "people_count": 2,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T13:23:10.720627"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img388.jpg",
+    "filename": "img388.jpg",
+    "file_hash": "912853cdc254d8212245466583761466",
+    "file_size": 1668268,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma equipe de futebol de salão posa para uma foto em uma quadra interna. Os jogadores vestem uniformes vermelhos e brancos, alguns com números visíveis nas costas. Ao fundo, espectadores assistem da arquibancada e um placar eletrônico indica informações do jogo. A cena sugere um evento esportivo em um ginásio, possivelmente nos anos 80 ou 90, dada a qualidade da imagem e os uniformes.",
+    "categories": [
+      "event",
+      "sport"
+    ],
+    "tags": [
+      "futebol de salão",
+      "esporte",
+      "quadra",
+      "uniforme",
+      "jogador"
+    ],
+    "dominant_colors": [
+      "branco",
+      "vermelho",
+      "cinza"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "década de 1980/1990",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1985,
+    "processed_at": "2026-03-25T13:23:14.426877"
+  },
+  {
+    "path": "photos/Comida Colonial/img847.jpg",
+    "filename": "img847.jpg",
+    "file_hash": "b8b5525f788704c66728c568f5908802",
+    "file_size": 1744478,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Um grupo de homens com chapéus de palha parece estar em uma adega ou local de armazenamento de vinho, com grandes barris vermelhos ao fundo. Eles estão sentados ou reclinados em torno de uma mesa coberta com uma toalha xadrez azul e branca, com garrafas e taças de vinho visíveis. A cena sugere uma confraternização ou degustação de vinho, possivelmente em uma propriedade rural ou vinícola.",
+    "categories": [
+      "event",
+      "travel"
+    ],
+    "tags": [
+      "vinho",
+      "adega",
+      "homens",
+      "chapéu de palha",
+      "confraternização"
+    ],
+    "dominant_colors": [
+      "vermelho",
+      "marrom",
+      "azul"
+    ],
+    "people_count": 4,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1985,
+    "processed_at": "2026-03-25T13:23:18.008529"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img891.jpg",
+    "filename": "img891.jpg",
+    "file_hash": "ad92aa6e7272041ac09db1253fe59626",
+    "file_size": 1917582,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Três homens estão em um evento, possivelmente uma premiação ou feira, segurando troféus feitos de madeira com o tema de uvas e barris. As vestimentas dos homens, especialmente os ternos e a qualidade da fotografia, sugerem um evento ocorrido nas décadas de 1980 ou 1990. Ao fundo, há outras pessoas e decorações, indicando um ambiente interno.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "premiação",
+      "troféu",
+      "vinho",
+      "uva",
+      "evento"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "cinza",
+      "preto"
+    ],
+    "people_count": 7,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T13:23:20.999610"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img389.jpg",
+    "filename": "img389.jpg",
+    "file_hash": "55e7f8e5ced92e70752649d9ba8c0a87",
+    "file_size": 1099616,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Fotografia em preto e branco de um edifício com arquitetura moderna e angulosa, possivelmente uma fábrica ou centro industrial, com telhados inclinados e paredes de concreto aparente. Ao fundo, colinas cobertas por vegetação densa e plantações, sugerindo um ambiente rural ou semi-rural. A presença de uma escada encostada em uma parede indica atividade de construção ou manutenção. A imagem parece datar de meados do século XX.",
+    "categories": [
+      "architecture",
+      "travel"
+    ],
+    "tags": [
+      "arquitetura moderna",
+      "edifício industrial",
+      "meados do século XX",
+      "paisagem rural",
+      "concreto aparente"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "people_count": 0,
+    "scene_type": "architecture",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "meados do século XX",
+    "location_type": "indústria",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1960,
+    "processed_at": "2026-03-25T13:23:25.098710"
+  },
+  {
+    "path": "photos/Comida Colonial/img848.jpg",
+    "filename": "img848.jpg",
+    "file_hash": "97994834e12fa5c6f7b8ecde5ddb9095",
+    "file_size": 1759599,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "A composição apresenta várias garrafas de vinho verdes e uma garrafa de vinho tinto, juntamente com um cacho de uvas verdes. Uma das garrafas verdes tem um rótulo com a inscrição \"Epagri\". A imagem parece ser uma natureza morta, possivelmente relacionada à produção de vinho ou a um evento de degustação.",
+    "categories": [
+      "food",
+      "product"
+    ],
+    "tags": [
+      "vinho",
+      "uvas",
+      "garrafas",
+      "epagri",
+      "natureza morta"
+    ],
+    "dominant_colors": [
+      "verde",
+      "branco",
+      "vermelho"
+    ],
+    "people_count": 0,
+    "scene_type": "other",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 4,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:23:28.464324"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img892.jpg",
+    "filename": "img892.jpg",
+    "file_hash": "5b10a456372efee85302ea49c441e5ef",
+    "file_size": 1493368,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma mulher jovem com traje típico e um homem mais velho em um terno recebem um prêmio de um homem. O prêmio é uma base com uma placa e elementos decorativos que lembram uvas e barris de vinho. A cena parece ser um evento de premiação, possivelmente relacionado à viticultura ou a um festival local, com um fundo escuro e elementos decorativos visíveis.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "evento",
+      "premiação",
+      "vinho",
+      "traje típico",
+      "homens"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "preto",
+      "branco"
+    ],
+    "people_count": 3,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 4,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T13:23:42.853146"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img390.jpg",
+    "filename": "img390.jpg",
+    "file_hash": "2020b09cfd68ef6f44b5f016d92adcc6",
+    "file_size": 1507697,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma exposição de arte com várias pessoas observando quadros pendurados em estruturas metálicas vermelhas. As pinturas retratam paisagens urbanas e rurais. A iluminação é artificial e o ambiente parece ser um espaço interno, possivelmente um centro cultural ou galeria de arte. A vestimenta das pessoas sugere que a foto foi tirada entre as décadas de 1980 e 1990.",
+    "categories": [
+      "architecture",
+      "event"
+    ],
+    "tags": [
+      "exposição de arte",
+      "pintura",
+      "galeria",
+      "pessoas",
+      "arquitetura"
+    ],
+    "dominant_colors": [
+      "vermelho",
+      "branco",
+      "marrom"
+    ],
+    "people_count": 8,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1980",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1985,
+    "processed_at": "2026-03-25T13:23:58.487008"
+  },
+  {
+    "path": "photos/Comida Colonial/img850.jpg",
+    "filename": "img850.jpg",
+    "file_hash": "723d2526597280f8bfc0a85a9459b0b8",
+    "file_size": 1950683,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma construção de madeira amarela com detalhes em vermelho, possivelmente um antigo moinho ou armazém, com várias janelas e um telhado inclinado. Ao lado, um carro de boi com uma pessoa vestida com roupas que remetem ao passado, em um ambiente rural com árvores ao fundo. A cena sugere um contexto histórico do Brasil rural.",
+    "categories": [
+      "architecture",
+      "travel"
+    ],
+    "tags": [
+      "antigo",
+      "construção de madeira",
+      "carro de boi",
+      "rural",
+      "brasil"
+    ],
+    "dominant_colors": [
+      "amarelo",
+      "vermelho",
+      "verde"
+    ],
+    "people_count": 2,
+    "scene_type": "outdoor",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:24:13.276068"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img893.jpg",
+    "filename": "img893.jpg",
+    "file_hash": "b90d82a1fb0239b2b0173189277e08f1",
+    "file_size": 1677834,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Um homem de meia-idade, vestindo um casaco claro sobre uma camisa social e gravata, está em um ambiente interno, possivelmente um evento de degustação ou social. Ele leva um copo de vinho tinto ao nariz para apreciá-lo, com uma parede de tijolos aparentes ao fundo. A imagem parece ser de uma ocasião mais formal ou de lazer, com um contexto que remete a eventos sociais ou culturais.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "homem",
+      "vinho",
+      "degustação",
+      "evento social",
+      "interno"
+    ],
+    "dominant_colors": [
+      "branco",
+      "marrom",
+      "cinza"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T13:24:28.016849"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img391.jpg",
+    "filename": "img391.jpg",
+    "file_hash": "464f4f7db17876e79b5d00fe5dbf0d02",
+    "file_size": 1770385,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma partida de futebol infantil está em andamento em um campo gramado, com várias crianças e alguns adultos presentes. Ao fundo, observa-se uma paisagem urbana com casas construídas em morros e vegetação exuberante. A arquitetura ao redor do campo sugere uma instalação esportiva em uma cidade de pequeno porte, possivelmente no interior do Brasil.",
+    "categories": [
+      "sport",
+      "architecture"
+    ],
+    "tags": [
+      "futebol",
+      "infantil",
+      "campo",
+      "cidade pequena",
+      "esporte"
+    ],
+    "dominant_colors": [
+      "verde",
+      "branco",
+      "marrom"
+    ],
+    "people_count": 30,
+    "scene_type": "outdoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1980",
+    "location_type": "campo esportivo",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1985,
+    "processed_at": "2026-03-25T13:24:44.011246"
+  },
+  {
+    "path": "photos/Comida Colonial/img851.jpg",
+    "filename": "img851.jpg",
+    "file_hash": "5a3ddafddfafff1c8f103380565b5cf5",
+    "file_size": 1861846,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "A cena exibe uma mesa com queijos, pães, garrafas de vinho e potes de geleia, sugerindo um piquenique ou uma degustação. Um faca está cravada em um dos queijos. A disposição dos itens e o pano xadrez ao fundo remetem a um ambiente caseiro ou de feira. A qualidade da imagem e a iluminação sugerem uma fotografia amadora de meados do século XX.",
+    "categories": [
+      "food",
+      "travel"
+    ],
+    "tags": [
+      "queijo",
+      "vinho",
+      "geleia",
+      "pão",
+      "piquenique"
+    ],
+    "dominant_colors": [
+      "amarelo",
+      "marrom",
+      "branco"
+    ],
+    "people_count": 0,
+    "scene_type": "other",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "meados do século XX",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1960,
+    "processed_at": "2026-03-25T13:25:00.537632"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img894.jpg",
+    "filename": "img894.jpg",
+    "file_hash": "a4fee380c0408a34720a8986add7af6c",
+    "file_size": 1861283,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Um homem de meia-idade com óculos está bebendo vinho tinto de uma taça. Ele está em um ambiente interno, possivelmente uma adega ou restaurante, com uma parede de tijolos ao fundo. A imagem parece ser uma fotografia pessoal, capturada em um momento casual.",
+    "categories": [
+      "portrait",
+      "event"
+    ],
+    "tags": [
+      "vinho",
+      "homem",
+      "taça",
+      "bebida",
+      "interior"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "vermelho",
+      "preto"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "desconhecido",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:25:30.641326"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img392.jpg",
+    "filename": "img392.jpg",
+    "file_hash": "6e36062a4316eae3d15922f569c10f9d",
+    "file_size": 2007518,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "A fotografia mostra um grupo de pessoas praticando judô em um tatame, vestindo seus kimonos brancos. A cena parece ser em um dojô, com paredes de tijolos e janelas ao fundo. Há um sinal com caracteres orientais na parede, sugerindo uma possível origem ou influência asiática da arte marcial. A imagem tem um tom envelhecido, indicando que pode ser uma lembrança de décadas passadas.",
+    "categories": [
+      "event",
+      "sport"
+    ],
+    "tags": [
+      "judô",
+      "artes marciais",
+      "dojô",
+      "esporte",
+      "antigo"
+    ],
+    "dominant_colors": [
+      "branco",
+      "marrom",
+      "vermelho"
+    ],
+    "people_count": 5,
+    "scene_type": "other",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:25:59.962300"
+  },
+  {
+    "path": "photos/Comida Colonial/img852.jpg",
+    "filename": "img852.jpg",
+    "file_hash": "4a19ee59c44227ed07f3a9f73eeecace",
+    "file_size": 2284795,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Um grupo de pessoas, incluindo mulheres com chapéus de palha e homens com camisas xadrez, está reunido em torno de uma carroça de madeira carregada com cestos de uvas. Ao fundo, observa-se uma paisagem rural com construções simples, colinas e plantações, sugerindo uma colheita de uvas em uma propriedade rural, possivelmente no sul do Brasil.",
+    "categories": [
+      "event",
+      "travel"
+    ],
+    "tags": [
+      "colheita",
+      "uvas",
+      "rural",
+      "carroça",
+      "trabalho"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "verde",
+      "azul"
+    ],
+    "people_count": 6,
+    "scene_type": "outdoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "campo",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T13:26:14.969884"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img895.jpg",
+    "filename": "img895.jpg",
+    "file_hash": "cf4451b0443a72518c3d0759908ff83a",
+    "file_size": 2183940,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Um homem de meia-idade, usando óculos e um terno cinza com gravata xadrez, bebe de uma taça de champanhe. A cena parece ser um evento social ou uma celebração, possivelmente em um ambiente interno com decoração discreta.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "homem",
+      "bebida",
+      "celebração",
+      "elegante",
+      "evento"
+    ],
+    "dominant_colors": [
+      "cinza",
+      "branco",
+      "azul"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:26:44.738343"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img393.jpg",
+    "filename": "img393.jpg",
+    "file_hash": "86b1169c68f63f529a9c9c569eacc20f",
+    "file_size": 1922118,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Quatro homens em trajes de artes marciais, possivelmente judô ou karatê, estão treinando em um tatame. A cena se passa em um ambiente interno com grandes janelas ao fundo, sugerindo uma academia ou ginásio. A vestimenta e a atmosfera geral indicam um período entre as décadas de 1970 e 1980.",
+    "categories": [
+      "event",
+      "sport"
+    ],
+    "tags": [
+      "artes marciais",
+      "judô",
+      "karatê",
+      "treinamento",
+      "academia"
+    ],
+    "dominant_colors": [
+      "branco",
+      "cinza",
+      "marrom"
+    ],
+    "people_count": 4,
+    "scene_type": "indoor",
+    "quality_score": 5,
+    "orientation": "landscape",
+    "historical_period": "década de 1970-1980",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1975,
+    "processed_at": "2026-03-25T13:26:59.640526"
+  },
+  {
+    "path": "photos/Comida Colonial/img854.jpg",
+    "filename": "img854.jpg",
+    "file_hash": "22594efa6825a7148e4f80c6c5af8c6b",
+    "file_size": 2032186,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma mesa farta com diversos alimentos, incluindo pães, queijos, linguiças, saladas e frutas. A toalha de mesa xadrez verde e branca sugere um ambiente informal e caseiro, possivelmente para uma refeição familiar ou celebração. A variedade de pratos indica uma culinária rica e tradicional.",
+    "categories": [
+      "food",
+      "event"
+    ],
+    "tags": [
+      "comida",
+      "festa",
+      "mesa",
+      "tradicional",
+      "refeição"
+    ],
+    "dominant_colors": [
+      "verde",
+      "branco",
+      "amarelo"
+    ],
+    "people_count": 0,
+    "scene_type": "food",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:27:34.307027"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img896.jpg",
+    "filename": "img896.jpg",
+    "file_hash": "857b784d0fcbdb7068c8ba9396f30a82",
+    "file_size": 1971874,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Um homem de meia-idade, com cabelos grisalhos e barba, está bebendo vinho tinto de uma taça. Ele veste um terno de tweed e uma camisa social com gravata. Ao fundo, observa-se uma parede de tijolos aparentes. A imagem parece ser um retrato íntimo, possivelmente em um ambiente de degustação ou social.",
+    "categories": [
+      "portrait",
+      "event"
+    ],
+    "tags": [
+      "homem",
+      "vinho",
+      "degustação",
+      "retrato",
+      "social"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "cinza",
+      "vermelho"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:28:22.468208"
+  },
+  {
+    "path": "photos/Comida Colonial/img856.jpg",
+    "filename": "img856.jpg",
+    "file_hash": "f4fd2e1f7423570fb452d9f3af4b9511",
+    "file_size": 2224324,
+    "provider": "gemini",
+    "model": "gemini/gemini-2.5-flash-lite",
+    "description": "Uma construção antiga de madeira com telhado de telhas aparenta ser uma casa ou um galpão, com janelas de vidro e uma porta vermelha. A vegetação exuberante e árvores de araucária ao redor sugerem um ambiente rural ou de pequena cidade no sul do Brasil, possivelmente em uma propriedade antiga.",
+    "categories": [
+      "architecture",
+      "travel"
+    ],
+    "tags": [
+      "antigo",
+      "construção",
+      "madeira",
+      "rural",
+      "araucaria"
+    ],
+    "dominant_colors": [
+      "amarelo",
+      "verde",
+      "azul"
+    ],
+    "people_count": 0,
+    "scene_type": "architecture",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "residência",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T13:31:18.663845"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img884.jpg",
+    "filename": "img884.jpg",
+    "file_hash": "732e9a568ca5f9dfba55fe78b21a3113",
+    "file_size": 1958387,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia que registra o VII Concurso Estadual de Vinhos realizado em Videira, Santa Catarina, em 1999. A imagem mostra um grupo de jurados sentados a uma mesa longa, degustando vinhos em um ambiente interno com paredes de tijolos aparentes e grandes janelas ao fundo.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "videira",
+      "vinho",
+      "concurso",
+      "anos 90",
+      "evento"
+    ],
+    "dominant_colors": [
+      "branco",
+      "azul",
+      "marrom"
+    ],
+    "people_count": 9,
+    "scene_type": "indoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 10,
+    "estimated_year": 1999,
+    "processed_at": "2026-03-25T14:01:37.756085"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img885.jpg",
+    "filename": "img885.jpg",
+    "file_hash": "aa664b13350054af79c153aeb4696db8",
+    "file_size": 2074026,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida exibindo um troféu de madeira em formato de cacho de uvas e barril, posicionado sobre uma mesa entre várias garrafas de vinho. O cenário sugere um evento de premiação ou festival de vinhos, possivelmente em uma região de tradição vitivinícola como Videira, com uma parede de tijolos aparentes ao fundo.",
+    "categories": [
+      "event",
+      "product"
+    ],
+    "tags": [
+      "vinho",
+      "troféu",
+      "vitivinicultura",
+      "festival",
+      "madeira"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "verde",
+      "bege"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T14:05:03.100669"
+  },
+  {
+    "path": "photos/Comida Colonial/img857.jpg",
+    "filename": "img857.jpg",
+    "file_hash": "9ac8012b536080ed0bd49fcd08840064",
+    "file_size": 2270174,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma casa de madeira de dois andares com arquitetura típica de colonização europeia no sul do Brasil, possivelmente em área rural. A estrutura apresenta paredes de tábuas verticais, telhado de telhas cerâmicas e uma base de alvenaria amarela, cercada por vegetação e árvores, sugerindo um ambiente de preservação histórica.",
+    "categories": [
+      "architecture",
+      "travel"
+    ],
+    "tags": [
+      "arquitetura",
+      "madeira",
+      "rural",
+      "colonizacao",
+      "historico"
+    ],
+    "dominant_colors": [
+      "amarelo",
+      "marrom",
+      "verde"
+    ],
+    "people_count": 0,
+    "scene_type": "landscape",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "campo",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T14:05:06.190214"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img886.jpg",
+    "filename": "img886.jpg",
+    "file_hash": "fe85001f06033c54a4ec9150d2b1b291",
+    "file_size": 1581889,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma mão serve vinho tinto em taças dispostas sobre uma mesa coberta por uma toalha branca. A cena sugere um evento de degustação ou confraternização, possivelmente relacionado à cultura vitivinícola, comum em regiões como Videira.",
+    "categories": [
+      "food",
+      "event"
+    ],
+    "tags": [
+      "vinho",
+      "degustação",
+      "taças",
+      "evento",
+      "vitivinicultura"
+    ],
+    "dominant_colors": [
+      "branco",
+      "vermelho",
+      "verde"
+    ],
+    "people_count": 1,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "início do século XXI",
+    "location_type": "interior",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 2005,
+    "processed_at": "2026-03-25T14:05:09.595362"
+  },
+  {
+    "path": "photos/Comida Colonial/img858.jpg",
+    "filename": "img858.jpg",
+    "file_hash": "d994cc72ee336a66d843b6ca2a6861a3",
+    "file_size": 2222199,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "A imagem retrata o processo tradicional de pisa de uvas para a produção de vinho, com pessoas utilizando grandes recipientes de madeira. É uma cena comum em regiões de colonização italiana no sul do Brasil, como Videira, evidenciando práticas rurais e culturais de época.",
+    "categories": [
+      "event",
+      "travel"
+    ],
+    "tags": [
+      "viticultura",
+      "pisa de uvas",
+      "tradicao",
+      "rural",
+      "vinho"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "vinho",
+      "branco"
+    ],
+    "people_count": 3,
+    "scene_type": "outdoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T14:05:13.032613"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img887.jpg",
+    "filename": "img887.jpg",
+    "file_hash": "5d5ca0e5bb30d9a0b5b009118173b4ea",
+    "file_size": 1695218,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma mesa preparada para uma sessão de degustação de vinhos, contendo várias taças de cristal, uma garrafa de água mineral, um balde de gelo e materiais para anotações como lápis e borracha. O cenário sugere um evento técnico ou educativo de avaliação enológica, possivelmente realizado em um ambiente profissional ou de curso.",
+    "categories": [
+      "event",
+      "product"
+    ],
+    "tags": [
+      "degustação",
+      "vinho",
+      "taças",
+      "evento",
+      "enologia"
+    ],
+    "dominant_colors": [
+      "branco",
+      "azul",
+      "transparente"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "início do século XXI",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 2005,
+    "processed_at": "2026-03-25T14:05:15.821278"
+  },
+  {
+    "path": "photos/Comida Colonial/img859.jpg",
+    "filename": "img859.jpg",
+    "file_hash": "c11414b1cefcfdb462678dff9257902d",
+    "file_size": 2159568,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia artística capturando o momento em que um líquido vermelho, possivelmente vinho, é derramado em uma taça, criando um efeito de movimento e respingos. A imagem foca na dinâmica do fluido e na transparência do vidro, sugerindo uma estética de fotografia publicitária ou experimental de meados do final do século XX.",
+    "categories": [
+      "product",
+      "art"
+    ],
+    "tags": [
+      "vinho",
+      "liquido",
+      "fotografia",
+      "movimento",
+      "taça"
+    ],
+    "dominant_colors": [
+      "vermelho",
+      "marrom",
+      "branco"
+    ],
+    "people_count": 0,
+    "scene_type": "product",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T14:05:22.185158"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img889.jpg",
+    "filename": "img889.jpg",
+    "file_hash": "9d9c6950e3dbeb16c3387cd4726fdc7c",
+    "file_size": 1671336,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia que captura um homem em um ambiente formal, possivelmente uma degustação de vinhos, onde ele examina o aroma de uma taça. O cenário inclui uma mesa coberta por uma toalha branca, várias taças de vinho e uma garrafa, sugerindo um evento profissional ou técnico de avaliação de bebidas.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "degustacao",
+      "vinho",
+      "formal",
+      "evento",
+      "avaliador"
+    ],
+    "dominant_colors": [
+      "branco",
+      "cinza",
+      "azul"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "comércio",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T14:06:08.841522"
+  },
+  {
+    "path": "photos/Comida Colonial/img860.jpg",
+    "filename": "img860.jpg",
+    "file_hash": "f6aeef7291378ea3bac768a10960a82a",
+    "file_size": 2167200,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia artística que captura o momento em que suco de uva ou vinho escorre de um cacho de uvas frescas diretamente para uma taça. A imagem evoca a tradição vitivinícola, sendo um tema comum em regiões de colonização italiana como Videira.",
+    "categories": [
+      "food",
+      "art"
+    ],
+    "tags": [
+      "uva",
+      "vinho",
+      "vitivinicultura",
+      "fotografia",
+      "alimento"
+    ],
+    "dominant_colors": [
+      "vermelho",
+      "amarelo",
+      "marrom"
+    ],
+    "people_count": 0,
+    "scene_type": "food",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T14:09:51.288595"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img897.jpg",
+    "filename": "img897.jpg",
+    "file_hash": "01d98fc7e36853a1e5f4f28d64c13397",
+    "file_size": 1989917,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia de um homem de meia-idade com bigode, vestindo um paletó cinza e gravata, degustando uma taça de vinho. O cenário sugere um ambiente interno com uma parede de tijolos aparentes ao fundo, possivelmente em um contexto de evento social ou enológico, típico de regiões produtoras de vinho como Videira.",
+    "categories": [
+      "portrait",
+      "event"
+    ],
+    "tags": [
+      "degustacao",
+      "vinho",
+      "homem",
+      "evento",
+      "anos 90"
+    ],
+    "dominant_colors": [
+      "cinza",
+      "marrom",
+      "bege"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T14:10:28.197435"
+  },
+  {
+    "path": "photos/Comida Colonial/img861.jpg",
+    "filename": "img861.jpg",
+    "file_hash": "1c47c5f4ee043d7aabf951a1af24735a",
+    "file_size": 1812913,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma composição de garrafas de vinho de vidro verde dispostas horizontalmente, acompanhadas por um cacho de uvas brancas frescas. A imagem destaca a produção vitivinícola, possivelmente associada à região de Videira, com rótulos que remetem a instituições locais como a Epagri.",
+    "categories": [
+      "product",
+      "food"
+    ],
+    "tags": [
+      "vinho",
+      "vitivinicultura",
+      "videira",
+      "uva",
+      "epagri"
+    ],
+    "dominant_colors": [
+      "verde",
+      "branco",
+      "vermelho"
+    ],
+    "people_count": 0,
+    "scene_type": "product",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 6,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T14:10:33.102166"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img898.jpg",
+    "filename": "img898.jpg",
+    "file_hash": "945014ef08f7d95bedf541cc60303ea6",
+    "file_size": 2264003,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma mesa decorada com elementos temáticos da vitivinicultura, incluindo esculturas de madeira em formato de cachos de uva, taças de madeira e mini barris. Ao centro, há pães fatiados e uvas frescas, sugerindo um evento comemorativo ou uma exposição cultural típica de regiões produtoras de vinho como Videira.",
+    "categories": [
+      "food",
+      "event"
+    ],
+    "tags": [
+      "vitivinicultura",
+      "artesanato",
+      "uva",
+      "gastronomia",
+      "tradicao"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "verde",
+      "amarelo"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T14:10:53.903212"
+  },
+  {
+    "path": "photos/Comida Colonial/img862.jpg",
+    "filename": "img862.jpg",
+    "file_hash": "58dbefb1c9c7ec00a43b423213a49fa7",
+    "file_size": 2094965,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma mulher e uma criança colhendo uvas em um parreiral, possivelmente em uma região de colonização italiana no sul do Brasil. A cena evoca a tradição da viticultura, com a mulher usando um chapéu de palha e carregando um cesto de vime, enquanto a criança interage com as caixas de madeira cheias de uvas.",
+    "categories": [
+      "event",
+      "travel"
+    ],
+    "tags": [
+      "viticultura",
+      "colheita",
+      "parreiral",
+      "tradicao",
+      "rural"
+    ],
+    "dominant_colors": [
+      "verde",
+      "marrom",
+      "azul"
+    ],
+    "people_count": 2,
+    "scene_type": "landscape",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "década de 1990",
+    "location_type": "campo",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T14:11:23.630975"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img899.jpg",
+    "filename": "img899.jpg",
+    "file_hash": "0c9341c582c21bc22d861dfec2dcbbeb",
+    "file_size": 1858883,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida que registra um momento de premiação ou homenagem, onde um homem entrega um troféu de madeira a outro. A cena ocorre em um ambiente interno, com quatro homens presentes, sugerindo um evento social ou corporativo ocorrido provavelmente entre o final da década de 1990 e início dos anos 2000.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "homenagem",
+      "premiacao",
+      "evento",
+      "trofeu",
+      "anos 90"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "azul",
+      "preto"
+    ],
+    "people_count": 4,
+    "scene_type": "portrait",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "final da década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1998,
+    "processed_at": "2026-03-25T14:11:28.988717"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img879.jpg",
+    "filename": "img879.jpg",
+    "file_hash": "c7a6cd310a0f8caf84ea09df7ab630bc",
+    "file_size": 2017917,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Um homem de meia-idade com bigode, vestindo paletó cinza e gravata, participa de uma sessão de degustação de vinhos. Ele está sentado à mesa com várias taças contendo vinho branco, realizando anotações em um papel, sugerindo um contexto de avaliação técnica ou evento enológico.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "degustação",
+      "vinho",
+      "evento",
+      "homem",
+      "formal"
+    ],
+    "dominant_colors": [
+      "cinza",
+      "bege",
+      "branco"
+    ],
+    "people_count": 2,
+    "scene_type": "portrait",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:02.241203"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img880.jpg",
+    "filename": "img880.jpg",
+    "file_hash": "c2a68df59c45de4d689c33fa4ec2b2bc",
+    "file_size": 2207484,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Um homem de meia-idade, vestindo um paletó de tweed e gravata, realiza uma degustação técnica de vinho tinto. A cena sugere um ambiente de enologia, possivelmente em uma vinícola, com uma parede de tijolos aparentes ao fundo.",
+    "categories": [
+      "portrait",
+      "event"
+    ],
+    "tags": [
+      "vinho",
+      "degustacao",
+      "enologia",
+      "homem",
+      "formal"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "cinza",
+      "vermelho"
+    ],
+    "people_count": 1,
+    "scene_type": "portrait",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:05.647056"
+  },
+  {
+    "path": "photos/Comida Colonial/img839.jpg",
+    "filename": "img839.jpg",
+    "file_hash": "1427ed8a7e4868d9016e5488cd7e5779",
+    "file_size": 2046970,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia artística que captura um cacho de uvas frescas sendo espremido, com o suco escorrendo diretamente para dentro de uma taça de vidro. A imagem evoca a tradição vitivinícola, possivelmente associada à produção de vinho em regiões como Videira, destacando a natureza e o processo de transformação do fruto.",
+    "categories": [
+      "food",
+      "nature"
+    ],
+    "tags": [
+      "uvas",
+      "vinho",
+      "vitivinicultura",
+      "fruta",
+      "processo"
+    ],
+    "dominant_colors": [
+      "vermelho",
+      "amarelo",
+      "marrom"
+    ],
+    "people_count": 0,
+    "scene_type": "food",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T17:08:09.790889"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img881.jpg",
+    "filename": "img881.jpg",
+    "file_hash": "acdae445e8403028804862687b4d6aab",
+    "file_size": 1839620,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia que captura um momento de premiação ou homenagem, onde um homem mais velho entrega um troféu de madeira em formato de cacho de uvas a um homem mais jovem. O cenário sugere um evento social ou festivo em um ambiente fechado, possivelmente relacionado à viticultura, comum em regiões como Videira.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "homenagem",
+      "viticultura",
+      "trofeu",
+      "evento",
+      "antigo"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "cinza",
+      "preto"
+    ],
+    "people_count": 5,
+    "scene_type": "portrait",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:12.904486"
+  },
+  {
+    "path": "photos/Comida Colonial/img841.jpg",
+    "filename": "img841.jpg",
+    "file_hash": "b58f0e5578761b68f94a79990b99bb5d",
+    "file_size": 1670978,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma imagem interna de uma adega ou depósito de vinhos, possivelmente em uma vinícola artesanal na região de Videira. O ambiente apresenta paredes de madeira, um barril de carvalho em destaque e diversas pilhas de garrafões de vidro e caixas de papelão organizadas para armazenamento ou venda.",
+    "categories": [
+      "product",
+      "architecture"
+    ],
+    "tags": [
+      "vinho",
+      "adega",
+      "videira",
+      "producao",
+      "artesanal"
+    ],
+    "dominant_colors": [
+      "bege",
+      "marrom",
+      "branco"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "indústria",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 5,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T17:08:18.096197"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img882.jpg",
+    "filename": "img882.jpg",
+    "file_hash": "c7ad0e8e22a652ea3c7816f0acfc00b5",
+    "file_size": 1777771,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida que registra uma cerimônia de premiação, onde homens recebem troféus artesanais em formato de cachos de uva. O evento sugere uma celebração ligada à viticultura, possivelmente em uma região como Videira, com vestimentas que indicam o final do século XX.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "viticultura",
+      "premio",
+      "trofeu",
+      "evento",
+      "comemoracao"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "branco",
+      "azul"
+    ],
+    "people_count": 5,
+    "scene_type": "indoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:21.502809"
+  },
+  {
+    "path": "photos/Comida Colonial/img840.jpg",
+    "filename": "img840.jpg",
+    "file_hash": "159a95f5393f7b44eda9be27f306fffe",
+    "file_size": 1680974,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "A imagem mostra um cenário doméstico ou comercial rústico, com foco em um barril de madeira e garrafões de vidro revestidos com palha, típicos da cultura de produção de vinho artesanal. O ambiente sugere uma adega ou despensa, possivelmente em uma região de colonização italiana como Videira, refletindo tradições de armazenamento de bebidas.",
+    "categories": [
+      "architecture",
+      "food"
+    ],
+    "tags": [
+      "vinho",
+      "artesanal",
+      "adega",
+      "tradicao",
+      "rural"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "bege",
+      "branco"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 7,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "residência",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T17:08:27.318079"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img883.jpg",
+    "filename": "img883.jpg",
+    "file_hash": "69f8fab5432b79b3d85eb47ce0d739b5",
+    "file_size": 1677377,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida que registra um momento de premiação ou homenagem, onde um homem entrega um troféu de madeira em formato de cacho de uvas a outro homem. O contexto sugere um evento regional ligado à viticultura, possivelmente em Videira, com vestimentas que indicam o final do século XX, por volta da década de 1990.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "homenagem",
+      "viticultura",
+      "trofeu",
+      "decada de 90",
+      "evento"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "azul",
+      "cinza"
+    ],
+    "people_count": 3,
+    "scene_type": "portrait",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:31.718688"
+  },
+  {
+    "path": "photos/Comida Colonial/img838.jpg",
+    "filename": "img838.jpg",
+    "file_hash": "6a4f034056cc39571919dd643d168164",
+    "file_size": 1591211,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "A imagem mostra o interior de uma instalação industrial ou comercial, possivelmente uma cozinha industrial ou fábrica de alimentos, com equipamentos de aço inoxidável. A estética da fotografia, com tons alaranjados e granulação, sugere que foi tirada entre as décadas de 1970 e 1980.",
+    "categories": [
+      "architecture",
+      "product"
+    ],
+    "tags": [
+      "industrial",
+      "equipamento",
+      "aco inoxidavel",
+      "decada de 80",
+      "cozinha"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "prata",
+      "branco"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1980",
+    "location_type": "indústria",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1980,
+    "processed_at": "2026-03-25T17:08:36.968302"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img900.jpg",
+    "filename": "img900.jpg",
+    "file_hash": "dfa20cf6be40f7ee6ac07fa6fe544fcd",
+    "file_size": 1680869,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia de um evento social, possivelmente uma celebração ligada à viticultura, onde um homem recebe um troféu de madeira em formato de cacho de uvas. O ambiente sugere uma confraternização em um espaço fechado, com pessoas ao fundo, indicando um contexto de festividade regional, comum em cidades com forte tradição vinícola como Videira.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "viticultura",
+      "trofeu",
+      "confraternizacao",
+      "evento",
+      "madeira"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "bege",
+      "preto"
+    ],
+    "people_count": 4,
+    "scene_type": "indoor",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:41.173764"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img901.jpg",
+    "filename": "img901.jpg",
+    "file_hash": "0b69096730430cc80165e5af966ff89f",
+    "file_size": 1367391,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma cena de entrega de premiação ou homenagem em um ambiente interno, possivelmente relacionada a um evento vitivinícola devido à escultura de uvas em madeira. O homem à esquerda, vestindo colete, entrega um troféu de madeira ao homem à direita, que segura um documento, sugerindo uma cerimônia formal ou confraternização.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "homenagem",
+      "evento",
+      "madeira",
+      "vitivinicultura",
+      "cerimonia"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "branco",
+      "vermelho"
+    ],
+    "people_count": 4,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:08:44.706457"
+  },
+  {
+    "path": "photos/Comida Colonial/img842.jpg",
+    "filename": "img842.jpg",
+    "file_hash": "65faa031d6cb0fd683aea3b8c643f1f7",
+    "file_size": 1578591,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma cena que retrata elementos tradicionais da vitivinicultura, possivelmente em uma região como Videira, com garrafas de vinho, um garrafão revestido de palha e uma cesta de uvas. A imagem reflete uma prática rural comum de produção artesanal, com um reflexo em um espelho ou superfície envidraçada que mostra parte de uma pessoa.",
+    "categories": [
+      "food",
+      "travel"
+    ],
+    "tags": [
+      "vitivinicultura",
+      "uvas",
+      "vinho",
+      "rural",
+      "tradicao"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "vermelho",
+      "branco"
+    ],
+    "people_count": 1,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "residência",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T17:08:58.612449"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img902.jpg",
+    "filename": "img902.jpg",
+    "file_hash": "d0b8250d1a373800f4bd24fcf86f34b9",
+    "file_size": 2051826,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma cena de desfile festivo, provavelmente uma celebração cultural ou colheita, onde pessoas vestem trajes típicos alemães. Destaca-se uma faixa com a inscrição 'Rainha do Vinho 99', sugerindo o ano de 1999 e um contexto de festa regional, possivelmente em uma cidade de colonização europeia no Brasil.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "festa",
+      "cultura",
+      "vinho",
+      "desfile",
+      "anos 90"
+    ],
+    "dominant_colors": [
+      "branco",
+      "marrom",
+      "verde"
+    ],
+    "people_count": 7,
+    "scene_type": "outdoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "rua",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 8,
+    "estimated_year": 1999,
+    "processed_at": "2026-03-25T17:09:10.294944"
+  },
+  {
+    "path": "photos/Comida Colonial/img844.jpg",
+    "filename": "img844.jpg",
+    "file_hash": "d74b23d52b0f6b427f65c8c47ea958e2",
+    "file_size": 1322120,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "A imagem apresenta duas taças de cristal com detalhes gravados, contendo vinhos de diferentes tonalidades, sobre uma superfície branca. O estilo das taças sugere uma tradição vitivinícola comum em regiões como Videira, evocando um momento de celebração ou degustação.",
+    "categories": [
+      "food",
+      "product"
+    ],
+    "tags": [
+      "vinho",
+      "taças",
+      "cristal",
+      "celebração",
+      "vitivinicultura"
+    ],
+    "dominant_colors": [
+      "branco",
+      "vermelho",
+      "rosa"
+    ],
+    "people_count": 0,
+    "scene_type": "product",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "desconhecido",
+    "location_type": "outro",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 0,
+    "processed_at": "2026-03-25T17:09:29.348170"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img903.jpg",
+    "filename": "img903.jpg",
+    "file_hash": "416fab1c4337003150bb53e6f1ba51a3",
+    "file_size": 2095284,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma cena de desfile cívico ou cultural em uma cidade brasileira, possivelmente Videira, com um caminhão Iveco decorado com elementos de parreiras e uvas, remetendo à tradição vitivinícola local. Pessoas vestidas com trajes típicos estão sobre o veículo, que transita em frente a um prédio público, sugerindo um evento comemorativo ou festivo ocorrido entre o final da década de 1990 e início dos anos 2000.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "desfile",
+      "videira",
+      "vitivinicultura",
+      "tradição",
+      "urbano"
+    ],
+    "dominant_colors": [
+      "branco",
+      "verde",
+      "marrom"
+    ],
+    "people_count": 8,
+    "scene_type": "outdoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "final da década de 1990",
+    "location_type": "prédio público",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 6,
+    "estimated_year": 1998,
+    "processed_at": "2026-03-25T17:09:41.154650"
+  },
+  {
+    "path": "photos/Comida Colonial/img843.jpg",
+    "filename": "img843.jpg",
+    "file_hash": "45499d3dbcf0b2e30f1374f960e91386",
+    "file_size": 1733347,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma exposição interna que retrata a cultura rural e a produção de vinho, possivelmente em um museu ou centro cultural de uma cidade como Videira. O ambiente apresenta diversos utensílios agrícolas antigos, barris de madeira, garrafões de vidro e ferramentas manuais, evocando a história da colonização e da vitivinicultura local.",
+    "categories": [
+      "architecture",
+      "event"
+    ],
+    "tags": [
+      "antigo",
+      "vitivinicultura",
+      "rural",
+      "museu",
+      "colonizacao"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "vermelho",
+      "azul"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "interior",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T17:09:48.611244"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img904.jpg",
+    "filename": "img904.jpg",
+    "file_hash": "ed891c1848e0b9fd3ef5cbb6e2c27501",
+    "file_size": 1588609,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia que retrata a entrega de um troféu artesanal em formato de cacho de uvas e barril, simbolizando a vitivinicultura. O evento parece ser uma cerimônia formal ou premiação, possivelmente relacionada à cultura da uva e do vinho, comum em regiões como Videira.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "vitivinicultura",
+      "trofeu",
+      "cerimonia",
+      "madeira",
+      "homenagem"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "cinza",
+      "branco"
+    ],
+    "people_count": 3,
+    "scene_type": "portrait",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "interior",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:09:51.841007"
+  },
+  {
+    "path": "photos/Comida Colonial/img845.jpg",
+    "filename": "img845.jpg",
+    "file_hash": "ef38deaca75bb5c7b6d75cdec5880253",
+    "file_size": 1584831,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma exposição temática sobre vitivinicultura, apresentando um tronco de videira seco, barris de madeira, garrafões revestidos e garrafas de vinho sobre uma mesa coberta. O cenário sugere um contexto de feira ou evento cultural relacionado à tradição vinícola, possivelmente na região de Videira, Santa Catarina.",
+    "categories": [
+      "event",
+      "product"
+    ],
+    "tags": [
+      "vinho",
+      "vitivinicultura",
+      "videira",
+      "tradicao",
+      "exposicao"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "branco",
+      "bege"
+    ],
+    "people_count": 0,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "década de 1990",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:09:57.128197"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img905.jpg",
+    "filename": "img905.jpg",
+    "file_hash": "03229ec3be082cee59c7b71be79370e9",
+    "file_size": 1504114,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia de um jantar ou confraternização familiar em ambiente interno, onde pessoas se servem de uma mesa farta. A imagem, provavelmente da década de 1990, captura um momento de descontração com pratos típicos e decoração festiva.",
+    "categories": [
+      "event",
+      "food"
+    ],
+    "tags": [
+      "confraternizacao",
+      "familia",
+      "jantar",
+      "decada de 90",
+      "evento"
+    ],
+    "dominant_colors": [
+      "branco",
+      "vermelho",
+      "marrom"
+    ],
+    "people_count": 7,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "residência",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:10:00.265884"
+  },
+  {
+    "path": "photos/Comida Colonial/img846.jpg",
+    "filename": "img846.jpg",
+    "file_hash": "461f6075d340b0dec90c70c12f024c67",
+    "file_size": 1842616,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma cena interna que parece ser uma exposição ou decoração temática sobre a produção de vinho, possivelmente em uma região de colonização italiana como Videira. O ambiente apresenta barris de madeira, uma mesa posta com garrafas de vinho e uma estrutura decorativa que simula uma parreira de uvas, sugerindo um contexto de celebração cultural ou feira comercial.",
+    "categories": [
+      "architecture",
+      "event"
+    ],
+    "tags": [
+      "vinho",
+      "videira",
+      "colonizacao",
+      "decoracao",
+      "antigo"
+    ],
+    "dominant_colors": [
+      "branco",
+      "azul",
+      "marrom"
+    ],
+    "people_count": 2,
+    "scene_type": "indoor",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1980",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1985,
+    "processed_at": "2026-03-25T17:10:04.450062"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img906.jpg",
+    "filename": "img906.jpg",
+    "file_hash": "30ca1b19198820c4c04fd53b724510ee",
+    "file_size": 2277543,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida que retrata uma família vestida com trajes típicos alemães, possivelmente participando de um desfile ou evento cultural como a Festa da Uva. O grupo está posicionado em um carro alegórico decorado com videiras e fitas nas cores da bandeira alemã, sugerindo uma celebração de tradições europeias no Brasil.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "tradição",
+      "alemanha",
+      "desfile",
+      "cultura",
+      "festa"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco",
+      "amarelo"
+    ],
+    "people_count": 4,
+    "scene_type": "portrait",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "década de 1990",
+    "location_type": "rua",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 5,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:10:08.085504"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img382.jpg",
+    "filename": "img382.jpg",
+    "file_hash": "3824e7780e7d0d2a572349c9c9a499e0",
+    "file_size": 941095,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Fotografia em preto e branco mostrando uma edificação em fase de construção ou reforma, com destaque para uma estrutura metálica de andaimes. A arquitetura apresenta linhas modernas e grandes vãos envidraçados, sugerindo uma construção de meados do século XX em um contexto urbano ou suburbano brasileiro.",
+    "categories": [
+      "architecture"
+    ],
+    "tags": [
+      "arquitetura",
+      "construção",
+      "antigo",
+      "urbano",
+      "modernismo"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "people_count": 0,
+    "scene_type": "landscape",
+    "quality_score": 6,
+    "orientation": "portrait",
+    "historical_period": "meados do século XX",
+    "location_type": "prédio público",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1960,
+    "processed_at": "2026-03-25T17:10:26.238910"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img907.jpg",
+    "filename": "img907.jpg",
+    "file_hash": "2abc1480e41134bf8fde2f144ecfc21b",
+    "file_size": 2097385,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida que mostra uma jovem mulher usando uma faixa de 'Rainha' e uma saia xadrez, sentada ao lado de uma criança vestida com trajes típicos alemães em um carro alegórico decorado com flores de papel. A cena sugere um desfile cultural ou festividade típica de colonização europeia, possivelmente em uma cidade do sul do Brasil, datada provavelmente da década de 1990.",
+    "categories": [
+      "event",
+      "portrait"
+    ],
+    "tags": [
+      "desfile",
+      "cultura",
+      "rainha",
+      "tradicao",
+      "alema"
+    ],
+    "dominant_colors": [
+      "verde",
+      "vermelho",
+      "amarelo"
+    ],
+    "people_count": 2,
+    "scene_type": "outdoor",
+    "quality_score": 8,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "rua",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 5,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:10:30.466560"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img383.jpg",
+    "filename": "img383.jpg",
+    "file_hash": "554f2d976f2edeee22b9517064a7c207",
+    "file_size": 1037448,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Fotografia em preto e branco capturando uma vista aérea ou em ângulo inclinado de uma estrutura arquitetônica moderna com telhados angulares e geométricos. O edifício apresenta linhas arrojadas e parece estar situado em uma área com vegetação ao fundo, possivelmente em fase de construção ou finalização.",
+    "categories": [
+      "architecture",
+      "landscape"
+    ],
+    "tags": [
+      "arquitetura",
+      "modernismo",
+      "construcao",
+      "geometria",
+      "antigo"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "people_count": 0,
+    "scene_type": "landscape",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "década de 1970",
+    "location_type": "prédio público",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1975,
+    "processed_at": "2026-03-25T17:10:35.714679"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img908.jpg",
+    "filename": "img908.jpg",
+    "file_hash": "7a4eb2e4e247290a0fb3891fb31387bb",
+    "file_size": 1712509,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida que mostra dois homens preparando polenta em um grande tacho, utilizando uma pá de madeira. Eles vestem aventais brancos e camisas casuais, sugerindo um evento comunitário ou gastronômico tradicional, possivelmente em uma região de colonização italiana no Brasil.",
+    "categories": [
+      "event",
+      "food"
+    ],
+    "tags": [
+      "polenta",
+      "culinaria",
+      "tradicao",
+      "comunitario",
+      "gastronomia"
+    ],
+    "dominant_colors": [
+      "amarelo",
+      "branco",
+      "azul"
+    ],
+    "people_count": 2,
+    "scene_type": "portrait",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "final do século XX",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T17:10:40.231850"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img385.jpg",
+    "filename": "img385.jpg",
+    "file_hash": "721a6d38a7ff601b4b97ea236e0c20b9",
+    "file_size": 1200372,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Fotografia em preto e branco mostrando a construção de um edifício moderno com estrutura de concreto e grandes vãos envidraçados. A cena sugere uma obra em andamento em uma área rural ou periurbana, possivelmente em meados do século XX, com operários visíveis sobre a estrutura metálica do telhado.",
+    "categories": [
+      "architecture",
+      "event"
+    ],
+    "tags": [
+      "construção",
+      "arquitetura",
+      "antigo",
+      "obra",
+      "desenvolvimento"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "people_count": 2,
+    "scene_type": "landscape",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "meados do século XX",
+    "location_type": "outro",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1960,
+    "processed_at": "2026-03-25T17:10:44.410767"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img386.jpg",
+    "filename": "img386.jpg",
+    "file_hash": "e84ce23aeb886ef03f8e915495e3c84e",
+    "file_size": 907629,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Fotografia em preto e branco mostrando a construção ou reforma de um edifício de arquitetura moderna com grandes fachadas de vidro. O local apresenta escadarias externas e andaimes, sugerindo uma fase final de obra ou manutenção em um ambiente institucional ou comercial.",
+    "categories": [
+      "architecture"
+    ],
+    "tags": [
+      "arquitetura",
+      "modernismo",
+      "construção",
+      "antigo",
+      "obra"
+    ],
+    "dominant_colors": [
+      "preto",
+      "branco",
+      "cinza"
+    ],
+    "people_count": 0,
+    "scene_type": "outdoor",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1960",
+    "location_type": "prédio público",
+    "document_type": "fotografia",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1965,
+    "processed_at": "2026-03-25T17:10:48.108019"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img387.jpg",
+    "filename": "img387.jpg",
+    "file_hash": "898a95b21b296f8257c38ea2786b5cc3",
+    "file_size": 1526005,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia de um desfile comemorativo em Videira, Santa Catarina, celebrando os 45 anos da cidade. Vê-se um trator puxando um reboque com pessoas, passando por uma rua comercial com edifícios de arquitetura típica de meados do século XX.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "videira",
+      "desfile",
+      "aniversario",
+      "trator",
+      "urbano"
+    ],
+    "dominant_colors": [
+      "amarelo",
+      "branco",
+      "cinza"
+    ],
+    "people_count": 10,
+    "scene_type": "outdoor",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "década de 1980",
+    "location_type": "rua",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 8,
+    "estimated_year": 1989,
+    "processed_at": "2026-03-25T17:10:51.710632"
+  },
+  {
+    "path": "photos/Comida Colonial/img836.jpg",
+    "filename": "img836.jpg",
+    "file_hash": "65f866f5343ec4109312ba7c8b7a1058",
+    "file_size": 1412391,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia colorida exibindo garrafas de vinho dispostas em uma estrutura de madeira, possivelmente em uma vinícola ou adega. A imagem destaca a produção vitivinícola, com cachos de uvas decorando a estrutura e uma garrafa de palha (garrafão) ao centro, sugerindo uma tradição artesanal típica da região de Videira.",
+    "categories": [
+      "food",
+      "product"
+    ],
+    "tags": [
+      "vinho",
+      "vitivinicultura",
+      "videira",
+      "adega",
+      "uvas"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "branco",
+      "verde"
+    ],
+    "people_count": 0,
+    "scene_type": "product",
+    "quality_score": 8,
+    "orientation": "portrait",
+    "historical_period": "final do século XX",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": true,
+    "legibility_score": 3,
+    "estimated_year": 1990,
+    "processed_at": "2026-03-25T17:10:55.812349"
+  },
+  {
+    "path": "photos/Construção Biblioteca Publica/img394.jpg",
+    "filename": "img394.jpg",
+    "file_hash": "340ce5290a4a155018e256f9d72b3970",
+    "file_size": 1841457,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma cena ao ar livre em uma praça pública, provavelmente durante um evento escolar ou cultural, com muitas crianças e adolescentes vestindo uniformes escolares. A imagem apresenta uma estética típica da década de 1980, com elementos como uma motocicleta, caminhos de pedra e uma estrutura central de alvenaria, sugerindo um ambiente comunitário brasileiro.",
+    "categories": [
+      "event",
+      "architecture"
+    ],
+    "tags": [
+      "decada de 80",
+      "estudantes",
+      "praca",
+      "evento escolar",
+      "urbano"
+    ],
+    "dominant_colors": [
+      "marrom",
+      "verde",
+      "branco"
+    ],
+    "people_count": 65,
+    "scene_type": "outdoor",
+    "quality_score": 7,
+    "orientation": "landscape",
+    "historical_period": "década de 1980",
+    "location_type": "praça",
+    "document_type": "fotografia",
+    "text_present": true,
+    "legibility_score": 2,
+    "estimated_year": 1985,
+    "processed_at": "2026-03-25T17:10:59.205662"
+  },
+  {
+    "path": "photos/VII Concurso VINHOS/img878.jpg",
+    "filename": "img878.jpg",
+    "file_hash": "ecac5c2bd2b1efbd9a4bf28b021dd2d3",
+    "file_size": 1816879,
+    "provider": "gemini",
+    "model": "gemini/gemini-3.1-flash-lite-preview",
+    "description": "Uma fotografia que retrata uma sessão de degustação de vinhos, onde um homem de meia-idade examina o aroma de uma taça. O ambiente sugere um evento formal ou técnico, possivelmente relacionado à vitivinicultura, com taças de vinho tinto dispostas sobre uma mesa coberta por uma toalha branca.",
+    "categories": [
+      "event",
+      "food"
+    ],
+    "tags": [
+      "degustação",
+      "vinho",
+      "evento",
+      "técnico",
+      "vitivinicultura"
+    ],
+    "dominant_colors": [
+      "branco",
+      "marrom",
+      "azul"
+    ],
+    "people_count": 2,
+    "scene_type": "indoor",
+    "quality_score": 6,
+    "orientation": "landscape",
+    "historical_period": "década de 1990",
+    "location_type": "comércio",
+    "document_type": "outro",
+    "text_present": false,
+    "legibility_score": 0,
+    "estimated_year": 1995,
+    "processed_at": "2026-03-25T17:11:04.075809"
+  }
+]
